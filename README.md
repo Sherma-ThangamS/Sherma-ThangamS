@@ -88,9 +88,3 @@
 
 <br/>  
 
-
-## Github Stats  
-  
-
-<br/>  
-
