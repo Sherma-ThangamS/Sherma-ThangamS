@@ -2,8 +2,8 @@
 
 ###   Hi 👋, I'm SHERMA THANGAM S  
 ### <div align="center"> A skilled practitioner in the art of teaching machines to learn from data and make intelligent decisions.</div>  
-  
-![Profile Views](https://badgen.net/github/profile-views/Sherma-ThangamS)
+
+
 ![](https://media.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif)  
   
 
